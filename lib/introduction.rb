@@ -11,3 +11,4 @@ def introduction_with_language_optional(name, language="")
 end
 
 introduction ("Alycia")
+introduction_with_language ("Alycia")
