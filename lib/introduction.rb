@@ -12,4 +12,4 @@ end
 
 introduction ("Alycia")
 introduction_with_language ("Alycia", "Ruby")
-introduction_with_language_optional("Alycia", "JavaScript")
+introduction_with_language_optional("Alycia")
